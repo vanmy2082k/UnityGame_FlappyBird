@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6dfbf5a3a03a472438cc03a2152b9b68
+timeCreated: 1524229744
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - flyClip: {fileID: 8300000, guid: 4ea42b37d67bdc2499d3da7b4d272c4f, type: 3}
+  - pingClip: {fileID: 8300000, guid: 6e2dd7b06c010344599d69b260595e4e, type: 3}
+  - diedClip: {fileID: 8300000, guid: 21ef5aec15f110b409e5a6991a103965, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
